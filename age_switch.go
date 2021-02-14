@@ -1,3 +1,4 @@
+//switch use to changes if_else
 package main
 import(
 	"fmt"
